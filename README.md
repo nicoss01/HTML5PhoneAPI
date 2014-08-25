@@ -1,4 +1,4 @@
-HTML5 Phone JS API
+HTML5 Phone JS API [![endorse](https://api.coderwall.com/nicoss01/endorsecount.png)](https://coderwall.com/nicoss01)
 =============
 
 A simple JS class to use HTML5 JS API Features for mobile
